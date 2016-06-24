@@ -165,12 +165,12 @@ social:
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
     fb_image: "/assets/logo.png"
-    fb_image_width: 662
-    fb_image_height: 655
+    fb_image_width: 612
+    fb_image_height: 605
     fb_image_type: "image/png"
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
+    os_repo:
     os_rcs_type: "git"
-    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
+    os_src:
