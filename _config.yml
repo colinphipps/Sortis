@@ -9,7 +9,7 @@ exclude:
 
 # Site settings
 title: Sortis
-subtitle: <h3> "Analysis of proposed legislation and its chances of making it into the real world." </h3>
+subtitle: <h3> <em> Analysis of proposed legislation and its chances of making it into the real world. </em> </h3>
 email: sortis@sortis.org
 name: Colin Phipps
 description: >
