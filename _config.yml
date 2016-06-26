@@ -8,7 +8,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Sortis
+title:
 subtitle: "Analysis of proposed legislation and its chances of making it into the real world."
 email: sortis@sortis.org
 name: Colin Phipps
