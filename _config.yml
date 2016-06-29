@@ -78,9 +78,9 @@ social:
 
   - name: Facebook
     icon: facebook
-    username:
-    url:
-    desc: Friend me on Facebook
+    username: sortisorg
+    url: https://www.facebook.com/sortisorg/
+    desc: Like us on Facebook!
     share: true
 
   - name: Google+
@@ -88,7 +88,7 @@ social:
     username:
     url:
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
