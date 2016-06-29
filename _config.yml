@@ -71,9 +71,9 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username:
-    url:
-    desc: Follow me on Twitter
+    username: SortisOrg
+    url: https://twitter.com/SortisOrg
+    desc: Follow us on Twitter!
     share: true
 
   - name: Facebook
@@ -158,7 +158,7 @@ social:
     username:
     url:
     desc: Share to Reddit
-    share: true
+    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
