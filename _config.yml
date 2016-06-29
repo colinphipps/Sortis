@@ -41,6 +41,8 @@ jekyll-archives:
 
 # Disqus comments
 
+disqus_shortname: sortis
+
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
