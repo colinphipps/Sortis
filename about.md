@@ -4,7 +4,8 @@ title: What is Sortis?
 permalink: /about/
 ---
 
-We're all familiar with websites and online resources which predict, to a certain degree of accuracy, outcomes of political races, supreme court decisions, major political referendums, etc. These resources are extremely useful to the politically informed and uninformed, and help establish a stronger, more transparent, and more direct link between government and the people it intends to protect.
+    We're all familiar with websites and online resources which predict, to a certain degree of accuracy, outcomes of 
+political races, supreme court decisions, major political referendums, etc. These resources are extremely useful to the politically informed and uninformed, and help establish a stronger, more transparent, and more direct link between government and the people it intends to protect.
 
 Currently however, these resources fail to cover a lot of key aspects of government procedure and action. On the internet today, there are minimal resources which reliably predict the chances of individual pieces of legislation being signed into law and implemented into our daily lives. Sortis aims to fix this problem bringing in a wide variety of sources, perspectives, and algorithms in order to determine whether or not a proposed piece of legislation is going to make it into the world, and how greatly it's going to affect an average citizen of the United States.
 
