@@ -4,7 +4,7 @@ title: Sortis?
 permalink: /about/
 ---
 
-### Sortis. Made to inform.
+### Made to inform.
 
 We're all familiar with websites and online resources which predict, to a certain degree of accuracy, outcomes of
 political races, supreme court decisions, major political referendums, etc. These resources are extremely useful to the politically informed and uninformed, and help establish a stronger, more transparent, and more direct link between government and the people it intends to protect.
