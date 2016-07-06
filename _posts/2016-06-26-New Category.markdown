@@ -3,7 +3,7 @@ layout: post
 title:  "Category Test 1"
 date:   2016-06-26 00:50:00
 author: Colin Phipps
-categories: Category
+categories: Test_Test
 tags: Category
 ---
 
