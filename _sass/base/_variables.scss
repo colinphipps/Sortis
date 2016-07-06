@@ -1,9 +1,15 @@
 // Google Fonts
-@import url(//fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i|Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre:400,500|Lato:400,400i,700,700i|Playfair+Display:400,700|Slabo+27px);
 
 // Typography
-$font-family: 'Slabo 27px', serif;
-$font-family: 'Playfair Display', serif;
+$base-font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; // $helvetica;
+$heading-font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $base-font-family;
+
+$base-font-family: "Lato", sans-serif;
+$base-font-family: "Slabo 27px", serif;
+$heading-font-family: "Playfair Display", serif;
+$heading-font-family: "Frank Ruhl Libre", sans-serif;
+
 
 // Font Sizes
 $base-font-size: $em-base; // 16px
