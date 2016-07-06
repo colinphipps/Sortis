@@ -21,4 +21,5 @@ That's right, we at Sortis just wanna help you.
 
 Now is the time for all good men to come to the aid of their country. Now is the time for all good men to come to the aid of their country. Now is the time for all good men to come to the aid of their country. Now is the time for all good men to come to the aid of their country.
 
-#WASHINGTON — Even as he declined to recommend a criminal case against Hillary Clinton, the F.B.I. director, James B. Comey, undercut many of the arguments she has used to play down her use of a private email server while secretary of state, describing a series of questionable, even reckless, decisions made by her and her aides.
+###WASHINGTON
+— Even as he declined to recommend a criminal case against Hillary Clinton, the F.B.I. director, James B. Comey, undercut many of the arguments she has used to play down her use of a private email server while secretary of state, describing a series of questionable, even reckless, decisions made by her and her aides.
