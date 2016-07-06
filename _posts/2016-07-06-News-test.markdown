@@ -3,7 +3,7 @@ layout: post
 title:  "Trump beats expectations, raises $51 million with GOP in June"
 date:   2016-07-06 11:51:59
 author: Colin Phipps
-categories: Test_Test
+categories: Test-Test
 tags: test
 ---
 
