@@ -9,11 +9,11 @@ exclude:
 
 # Site settings
 title: Sortis
-subtitle: "Analysis of proposed legislation and its chances of making it into the real world."
+subtitle: "Analysis of proposed legislation to Oregon's legislature and its chances of making it to the real world."
 email: sortis@sortis.org
 name: Colin Phipps
 description: >
-  An up-to-date, reliable, and in-depth resource to keep up to date with proposed legislation to Oregon's state congress.
+  Your in-depth resource to keep up to date with proposed legislation to Oregon's state legislature.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
