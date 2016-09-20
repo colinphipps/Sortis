@@ -4,7 +4,7 @@ title:  "Category Test 1"
 date:   2016-06-26 00:50:00
 author: Colin Phipps
 categories: Test-Test
-visible: 0
+published: false
 tags: Category
 ---
 
